@@ -1,0 +1,12 @@
+/home/runner/Programs/Libraries/bin/Debug/net6.0/Libraries.deps.json
+/home/runner/Programs/Libraries/bin/Debug/net6.0/Libraries.dll
+/home/runner/Programs/Libraries/bin/Debug/net6.0/ref/Libraries.dll
+/home/runner/Programs/Libraries/bin/Debug/net6.0/Libraries.pdb
+/home/runner/Programs/Libraries/obj/Debug/net6.0/Libraries.csproj.AssemblyReference.cache
+/home/runner/Programs/Libraries/obj/Debug/net6.0/Libraries.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/Programs/Libraries/obj/Debug/net6.0/Libraries.AssemblyInfoInputs.cache
+/home/runner/Programs/Libraries/obj/Debug/net6.0/Libraries.AssemblyInfo.cs
+/home/runner/Programs/Libraries/obj/Debug/net6.0/Libraries.csproj.CoreCompileInputs.cache
+/home/runner/Programs/Libraries/obj/Debug/net6.0/Libraries.dll
+/home/runner/Programs/Libraries/obj/Debug/net6.0/ref/Libraries.dll
+/home/runner/Programs/Libraries/obj/Debug/net6.0/Libraries.pdb
